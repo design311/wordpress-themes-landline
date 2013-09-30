@@ -3,13 +3,13 @@ Landline
 
 Frequently Asked Questions
 --------------------------
-**What is the minimum size of the background image?**
+**What is the minimum size of the background image?**  
 1366x768px, all larger images will be resized to this size.
 
-**Can I use a hierarchical menu? Does this theme support multiple menu levels?**
+**Can I use a hierarchical menu? Does this theme support multiple menu levels?**  
 No, we're trying to keep the theme very simple.
 
-**Where should I go for support? How do I contact you?**
+**Where should I go for support? How do I contact you?**  
 Feel free to mail me with any suggestions, feedback, support questions you might have: hello@design311.com
 
 Resources
@@ -36,4 +36,6 @@ Changelog
 * Background images will be resized to 1366x768px to prevent heavy page loading
 * Fixed a few styling issues
 * Changed footer notice
-**1.0*** Initial release
+
+**1.0**
+* Initial release
