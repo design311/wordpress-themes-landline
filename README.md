@@ -1,21 +1,23 @@
 Landline
-=========================
+========
 
-== Frequently Asked Questions ==
+Frequently Asked Questions
+--------------------------
 
-= What is the minimum size of the background image? =
+** What is the minimum size of the background image? **
 
 1366x768px, all larger images will be resized to this size.
 
-= Can I use a hierarchical menu? Does this theme support multiple menu levels? =
+** Can I use a hierarchical menu? Does this theme support multiple menu levels? **
 
 No, we're trying to keep the theme very simple.
 
-= Where should I go for support? How do I contact you? =
+** Where should I go for support? How do I contact you? **
 
 Feel free to mail me with any suggestions, feedback, support questions you might have: hello@design311.com
 
-== Resources ==
+Resources
+---------
 
 Normalize.css - ​http://necolas.github.io/normalize.css/
 License: Open Source (https://github.com/necolas/normalize.css/blob/master/LICENSE.md)
@@ -26,18 +28,19 @@ License: Creative Commons Zero (http://creativecommons.org/choose/zero/)
 Copyright: Kenneth Thewissen
 
 
-== Changelog ==
+Changelog
+---------
 
-= 1.3 =
+** 1.3 **
 * Fixed menu not showing correctly when no custom menu is set
 
-= 1.2 =
+** 1.2 **
 * Changed footer notice
 
-= 1.1 =
+** 1.1 **
 * Background images will be resized to 1366x768px to prevent heavy page loading
 * Fixed a few styling issues
 * Changed footer notice
 
-= 1.0 =
+** 1.0 **
 * Initial release
